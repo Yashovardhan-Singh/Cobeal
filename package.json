@@ -1,0 +1,31 @@
+{
+    "name": "cobeal",
+    "displayName": "Cobeal",
+    "description": "Blue Dark-ish theme for vscode",
+    "version": "1.0.0",
+    "publisher": "Yashovardhan-Singh",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "icon": "icons/icon.ico",
+	"author": {
+		"name": "Yashovardhan Singh",
+		"email": "yashovardhansingh08@gmail.com"
+	},
+    "repository": {
+        "url": "",
+        "type": "git"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cobeal",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cobeal-color-theme.json"
+            }
+        ]
+    }
+}
