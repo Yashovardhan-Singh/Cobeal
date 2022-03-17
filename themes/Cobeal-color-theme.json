@@ -2,10 +2,22 @@
 	"name": "Cobeal",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#293d3d",
+		"editor.background": "#334949",
 		"editor.foreground": "#56b3ff",
-		"activityBarBadge.background": "#334d4d",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#334949",
+		"sideBarTitle.foreground": "#3784c3",
+		"sideBar.background": "#334949",
+		"sideBar.foreground": "#56b3ff",
+		"titleBar.activeBackground": "#334949",
+		"titleBar.activeForeground": "#56b3ff",
+		"titleBar.inactiveBackground": "#334949",
+		"titleBar.inactiveForeground": "#56b3ff",
+		"editor.lineHighlightBorder": "#334949",
+		"activityBar.activeBackground": "#425f5f",
+		"activityBar.background": "#334949",
+		"activityBar.border": "#334949",
+		"activityBar.foreground": "#56b3ff",
+		"activityBarBadge.foreground": "#56b3ff"
 	},
 	"tokenColors": [
 		{
