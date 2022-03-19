@@ -1,9 +1,9 @@
 # Change Log
 
-All notable changes to the "cobeal" extension will be documented in this file.
+Changes made in the extension are documented here.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
+## [V1.0.0]
 - Initial release
+
+## [V1.0.1]
+- Added New Colors

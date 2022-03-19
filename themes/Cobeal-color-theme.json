@@ -17,7 +17,27 @@
 		"activityBar.background": "#334949",
 		"activityBar.border": "#334949",
 		"activityBar.foreground": "#56b3ff",
-		"activityBarBadge.foreground": "#56b3ff"
+		"activityBarBadge.foreground": "#56b3ff",
+		"editorOverviewRuler.background": "#334949",
+		"statusBar.background": "#334949",
+		"banner.background": "#334949",
+		"badge.background": "#334949",
+		"banner.iconForeground": "#56b3ff",
+		"banner.foreground": "#56b3ff",
+		"breadcrumb.background": "#334949",
+		"breadcrumb.foreground": "#56b3ff",
+		"editorGroupHeader.noTabsBackground": "#3b5353",
+		"editorGroupHeader.tabsBackground": "#3b5353",
+		"editorGroup.border": "#334949",
+		"editorOverviewRuler.border": "#334949",
+		"editorGroupHeader.border": "#334949",
+		"editorGroup.focusedEmptyBorder": "#334949",
+		"menu.background": "#334949",
+		"menu.foreground": "#56b3ff",
+		"notifications.background": "#334949",
+		"notifications.foreground": "#56b3ff",
+		"notifications.border": "#334949",
+		"tab.inactiveBackground": "#3b5353"
 	},
 	"tokenColors": [
 		{
